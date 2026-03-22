@@ -14,6 +14,7 @@ public class ProtobufDemoApplication {
 //								.setName("Basant");
 		//new changes from pnr1115 committe
 		//changes committed from main remote
+		//remote changes committed
 		SpringApplication.run(ProtobufDemoApplication.class, args);
 	}
 
