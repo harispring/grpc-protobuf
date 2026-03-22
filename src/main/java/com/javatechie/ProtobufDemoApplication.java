@@ -12,6 +12,7 @@ public class ProtobufDemoApplication {
 //		Employee.newBuilder()
 //						.setId(101)
 //								.setName("Basant");
+		//new changes from pnr1115 committed
 		SpringApplication.run(ProtobufDemoApplication.class, args);
 	}
 
