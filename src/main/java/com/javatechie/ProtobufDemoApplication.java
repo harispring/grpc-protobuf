@@ -15,6 +15,7 @@ public class ProtobufDemoApplication {
 		//new changes from pnr1115 committe
 		//changes committed from main remote
 		//new local changes
+		//remote changes committed
 		SpringApplication.run(ProtobufDemoApplication.class, args);
 	}
 
